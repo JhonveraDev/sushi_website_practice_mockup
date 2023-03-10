@@ -166,6 +166,8 @@ img {
   column-gap: .5rem;
   font-family: var(--title-font);
   font-size: var(--h3-font-size);
+  font-weight: var(--font-semi-bold);
+  transition: color .3s;
 }
 
 /* Show menu */
